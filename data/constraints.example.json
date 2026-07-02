@@ -1,0 +1,26 @@
+{
+  "budget": {
+    "tiny_krw": 30000,
+    "small_krw": 150000,
+    "medium_krw": 500000,
+    "premium_krw": 1200000,
+    "max_krw": 1200000
+  },
+  "time": {
+    "weekday_evening_hours": 3,
+    "weekend_hours": 6,
+    "max_travel_minutes_one_way": 90,
+    "preferred_notice_days_for_travel": 14
+  },
+  "family_logistics": {
+    "childcare_required_for_evening": true,
+    "avoid_school_morning_disruption": true,
+    "default_return_time": "22:30"
+  },
+  "style_constraints": {
+    "avoid_public_surprise": true,
+    "prefer_refundable_bookings": true,
+    "prefer_low_pressure_reveal": true
+  },
+  "dietary_constraints": []
+}

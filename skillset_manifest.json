@@ -1,0 +1,34 @@
+{
+  "name": "partner-surprise-codex-skillset",
+  "version": "1.0.0",
+  "description": "Codex Skills for partner surprise planning: preference interview, triggers, trend research, gifts, restaurants, travel, messaging, and profile maintenance.",
+  "language": "ko",
+  "skills": [
+    "surprise-orchestrator",
+    "life-event-trigger-radar",
+    "trend-research-scout",
+    "gift-idea-selector",
+    "restaurant-date-planner",
+    "travel-getaway-planner",
+    "relationship-message-writer",
+    "partner-profile-maintainer"
+  ],
+  "optional_subagents": [
+    "trend-researcher",
+    "logistics-planner",
+    "emotional-copywriter",
+    "surprise-reviewer"
+  ],
+  "default_location_context": "Seoul, South Korea",
+  "privacy_posture": "data-minimised, consent-respecting, no covert monitoring",
+  "live_verification_required_for": [
+    "prices",
+    "availability",
+    "restaurant reviews",
+    "hotel packages",
+    "new openings",
+    "celebrity or influencer claims",
+    "travel conditions",
+    "weather-sensitive plans"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "name": "Wedding anniversary",
+      "date": "MM-DD",
+      "category": "anniversary",
+      "importance": 5,
+      "default_scale": "premium",
+      "reason": "Annual wedding anniversary. Replace MM-DD with the actual date.",
+      "emotional_note": "Connect the plan to gratitude and shared life rather than extravagance.",
+      "risk_note": "Do not leave planning until the week of the event."
+    },
+    {
+      "name": "Partner birthday",
+      "date": "MM-DD",
+      "category": "birthday",
+      "importance": 5,
+      "default_scale": "premium",
+      "reason": "Annual birthday. Replace MM-DD with the actual date.",
+      "emotional_note": "Birthday should feel planned in advance, not improvised.",
+      "risk_note": "Check exact gift preference, booking, and family schedule."
+    },
+    {
+      "name": "First-date memory",
+      "date": "MM-DD",
+      "category": "shared_memory",
+      "importance": 3,
+      "default_scale": "small",
+      "reason": "Optional personal memory date. Replace or remove.",
+      "emotional_note": "A small note or revisit can be meaningful.",
+      "risk_note": "Use only if the memory is positive for both."
+    }
+  ]
+}

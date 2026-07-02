@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+local/
+_archive/
+data/*personal*.json
+data/partner_profile.json
+data/anniversaries.json
+data/constraints.json
+data/candidates.json

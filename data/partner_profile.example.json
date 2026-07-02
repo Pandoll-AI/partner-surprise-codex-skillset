@@ -1,0 +1,42 @@
+{
+  "name_label": "partner",
+  "default_language": "ko",
+  "default_location": "Seoul, South Korea",
+  "preferences": {
+    "likes": [
+      "quiet dinner",
+      "dessert",
+      "flowers",
+      "hotel staycation",
+      "thoughtful letter",
+      "seasonal experience",
+      "premium but understated"
+    ],
+    "dislikes": [
+      "public attention",
+      "last-minute chaos",
+      "generic gifts",
+      "high-pressure surprise"
+    ],
+    "style_tags": [
+      "elegant",
+      "calm",
+      "not too flashy",
+      "personal detail"
+    ],
+    "allergies_or_hard_constraints": [],
+    "enjoys_commercial_romance_days": true
+  },
+  "recent_context": {
+    "mood_signal": "Partner enjoys thoughtful, low-pressure surprises.",
+    "relationship_goal": "Show proactive care without making it feel like a performance."
+  },
+  "history": [
+    {
+      "date": "YYYY-MM-DD",
+      "action": "Small low-pressure surprise",
+      "reaction": "Positive",
+      "learning": "Plan small gestures before major dates."
+    }
+  ]
+}
