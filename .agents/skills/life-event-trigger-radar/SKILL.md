@@ -27,7 +27,7 @@ Purpose: find when a thoughtful surprise should happen and why it would feel nat
 3. **Mood and care triggers**
    - after a difficult conversation
    - visible fatigue, stress, disappointment, or loneliness
-   - before/after partner's big presentation, deadline, trip, medical appointment, or family obligation
+   - before/after partner's big presentation, deadline, trip, important appointment, or family obligation
 
 4. **Opportunity windows**
    - free evening
