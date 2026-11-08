@@ -9,3 +9,7 @@ data/partner_profile.json
 data/anniversaries.json
 data/constraints.json
 data/candidates.json
+
+# Local AI agent state
+.claude/
+.codex/
